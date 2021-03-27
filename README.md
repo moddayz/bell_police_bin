@@ -32,3 +32,9 @@ Instructions:
 5. Уберите галочку Binarize
 6. Запаковываете.
 7. Размещаете pbo в любой свой мод с указанием ссылкой на источник https://github.com/moddayz
+
+
+
+
+replica of a helicopter from the game Batman: Arkham Knight
+The author of the model: Rocksteady Studios
