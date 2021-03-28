@@ -18,7 +18,8 @@ Instructions:
 4. In the Addons source directory line, specify bell_police_bin-main \ bell_police_bin-main \ HelicopterSIB - the HelicopterSIB folder
 5. Uncheck Binarize
 6. Pack it.
-7. Place it pbo in any of your mods with a link to the source https://github.com/moddayz
+7. You should get HelicopterSIB.pbo
+8. Place it pbo in any of your mods with a link to the source https://github.com/moddayz
 
 
 
@@ -31,7 +32,8 @@ Instructions:
 4. В строке Addons source directory указываете bell_police_bin-main \ bell_police_bin-main \ HelicopterSIB - папка HelicopterSIB 
 5. Уберите галочку Binarize
 6. Запаковываете.
-7. Размещаете pbo в любой свой мод с указанием ссылкой на источник https://github.com/moddayz
+7. Должен получиться HelicopterSIB.pbo
+8. Размещаете pbo в любой свой мод с указанием ссылкой на источник https://github.com/moddayz
 
 
 
