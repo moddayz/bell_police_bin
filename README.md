@@ -16,10 +16,11 @@ Instructions:
 2. Run Dayz_tools https://store.steampowered.com/app/830640/DayZ_Tools/
 3. Launch and select AddonBuilder in it
 4. In the Addons source directory line, specify bell_police_bin-main \ HelicopterSIB - the HelicopterSIB folder
-5. Uncheck Binarize
-6. Pack it.
-7. You should get HelicopterSIB.pbo
-8. Place it pbo in any of your mods with a link to the source https://github.com/moddayz
+4.1. For those who decided to ignore in 4 point, I repeat, DO NOT PACK bell_police_bin-main the folder !!! find HelicopterSIB a folder in it and pack it in pbo ...!!!
+6. Uncheck Binarize
+7. Pack it.
+8. You should get HelicopterSIB.pbo
+9. Place it pbo in any of your mods with a link to the source https://github.com/moddayz
 
 
 
