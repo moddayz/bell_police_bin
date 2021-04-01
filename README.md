@@ -19,7 +19,7 @@ Instructions:
 5. For those who decided to ignore in 4 point, I repeat, DO NOT PACK bell_police_bin-main the folder !!! find HelicopterSIB a folder in it and pack it in pbo ...!!!
 6. Uncheck Binarize
 7. Pack it.
-8. You should get HelicopterSIB.pbo
+8. You should get HelicopterSIB.pbo(if such a name already exists after packing, rename pbo)
 9. Place it pbo in any of your mods with a link to the source https://github.com/moddayz
 
 
