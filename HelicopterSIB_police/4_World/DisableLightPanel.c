@@ -31,7 +31,7 @@ class ActionHeliDisableLightPanelSIB_police: ActionContinuousBase
 	
 	override bool ActionCondition( PlayerBase player, ActionTarget target, ItemBase item )
 	{	
-		HeliTest_SIB trans = null;
+		HeliSIB_police_base trans = null;
 		HumanCommandVehicle vehCommand = player.GetCommand_Vehicle();
 		if ( !vehCommand  )return false;	
 		

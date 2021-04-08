@@ -131,7 +131,7 @@ modded  class PlayerBase
 {
 	override void SetActions(out TInputActionMap InputActionMap)
 	{
-		//black_hawk 
+		//police
 		AddAction(ActionHeliEnableLightSIB_police, InputActionMap);
 		AddAction(ActionHeliEnableLightPanelSIB_police, InputActionMap);
 		AddAction(ActionHeliDisableLightSIB_police, InputActionMap);
