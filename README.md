@@ -15,8 +15,13 @@ Instructions:
 1. Download the archive bell_police_bin-main.zip
 2. Run Dayz_tools https://store.steampowered.com/app/830640/DayZ_Tools/
 3. Launch and select AddonBuilder in it
+<<<<<<< HEAD
 4. In the Addons source directory line, specify bell_police_bin-main \ HelicopterSIB - the HelicopterSIB folder
 5. For those who decided to ignore in 4 point, I repeat, DO NOT PACK bell_police_bin-main the folder !!! find HelicopterSIB_police a folder in it and pack it in pbo ...!!!
+=======
+4. In the Addons source directory line, specify bell_police_bin-main \ HelicopterSIB_police - the HelicopterSIB_police folder
+5. For those who decided to ignore in 4 point, I repeat, DO NOT PACK bell_police_bin-main the folder !!! find HelicopterSIB_police a folder in it and pack it in pbo ...!!!
+>>>>>>> d052119506ee1aad0463f2513720f38644f91b98
 6. Uncheck Binarize
 7. Pack it.
 8. You should get HelicopterSIB_police.pbo(if such a name already exists after packing, rename pbo)
@@ -30,10 +35,11 @@ Instructions:
 1. Скачиваете архив bell_police_bin-main.zip
 2. Запускаете Dayz_tools https://store.steampowered.com/app/830640/DayZ_Tools/
 3. Запускаете и выбираете в нем AddonBuilder
-4. В строке Addons source directory указываете bell_police_bin-main \ HelicopterSIB - папка HelicopterSIB 
+4. В строке Addons source directory указываете bell_police_bin-main \ HelicopterSIB_police - папка HelicopterSIB_police 
 5. Уберите галочку Binarize
 6. Запаковываете.
 7. Должен получиться HelicopterSIB_police.pbo
+>>>>>>> d052119506ee1aad0463f2513720f38644f91b98
 8. Размещаете pbo в любой свой мод с указанием ссылкой на источник https://github.com/moddayz
 
 
