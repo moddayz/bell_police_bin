@@ -1,0 +1,21 @@
+////////////////////////////////////////////////////////////////////
+//DeRap: ca_e\data\default.rvmat
+//Produced from mikero's Dos Tools Dll version 7.68
+//https://mikero.bytex.digital/Downloads
+//'now' is Thu Aug 06 19:34:45 2020 : 'file' last modified on Thu Apr 29 19:09:37 2010
+////////////////////////////////////////////////////////////////////
+
+#define _ARMA_
+
+ambient[] = {1,1,1,1};
+diffuse[] = {1,1,1,1};
+forcedDiffuse[] = {0,0,0,0};
+emmisive[] = {0,0,0,1};
+specular[] = {0,0,0,0};
+specularPower = 0;
+PixelShaderID = "Normal";
+VertexShaderID = "Basic";
+class StageTI
+{
+	texture = "HelicopterSIB\police\data\default_vehicle_ti_ca.paa";
+};
