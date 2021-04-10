@@ -17,5 +17,5 @@ PixelShaderID = "Normal";
 VertexShaderID = "Basic";
 class StageTI
 {
-	texture = "HelicopterSIB\police\data\default_vehicle_ti_ca.paa";
+	texture = "HelicopterSIB_police\data\default_vehicle_ti_ca.paa";
 };

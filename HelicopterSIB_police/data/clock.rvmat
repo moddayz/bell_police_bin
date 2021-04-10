@@ -1,5 +1,5 @@
 ////////////////////////////////////////////////////////////////////
-//DeRap: HelicopterMod-UH1Hxxx\1\mi35_clock.rvmat
+//DeRap: HelicopterSIB_police-UH1Hxxx\1\mi35_clock.rvmat
 //Produced from mikero's Dos Tools Dll version 7.68
 //https://mikero.bytex.digital/Downloads
 //'now' is Sun Aug 02 20:44:53 2020 : 'file' last modified on Sun Aug 02 20:44:41 2020
@@ -17,7 +17,7 @@ PixelShaderID = "NormalMapSpecularDIMap";
 VertexShaderID = "NormalMap";
 class Stage1
 {
-	texture = "HelicopterSIB\police\Data\clock_NOHQ.paa";
+	texture = "HelicopterSIB_police\Data\clock_NOHQ.paa";
 	uvSource = "tex";
 	class uvTransform
 	{
@@ -29,7 +29,7 @@ class Stage1
 };
 class Stage2
 {
-	texture = "HelicopterSIB\police\Data\clock_SMDI.paa";
+	texture = "HelicopterSIB_police\Data\clock_SMDI.paa";
 	uvSource = "tex";
 	class uvTransform
 	{

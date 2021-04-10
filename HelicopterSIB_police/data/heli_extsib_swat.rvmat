@@ -18,7 +18,7 @@ PixelShaderID = "Super";
 VertexShaderID = "Super";
 class Stage1
 {
-	texture = "HelicopterSIB\police\data\Helicopter_Police_nohq.paa";
+	texture = "HelicopterSIB_police\data\Helicopter_Police_nohq.paa";
 	uvSource = "tex";
 	class uvTransform
 	{

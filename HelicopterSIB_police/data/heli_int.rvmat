@@ -8,7 +8,7 @@
 
 class StageTI
 {
-	texture = "HelicopterMod\data\heli_int_ti_ca.paa";
+	texture = "HelicopterSIB_police\data\heli_int_ti_ca.paa";
 };
 ambient[] = {1,1,1,1};
 diffuse[] = {1,1,1,1};
@@ -20,7 +20,7 @@ PixelShaderID = "Super";
 VertexShaderID = "Super";
 class Stage1
 {
-	texture = "HelicopterMod\data\heli_int_nohq.paa";
+	texture = "HelicopterSIB_police\data\heli_int_nohq.paa";
 	uvSource = "tex";
 	class uvTransform
 	{
@@ -32,7 +32,7 @@ class Stage1
 };
 class Stage2
 {
-	texture = "HelicopterMod\da\detail_maps\plastic1_512_dt.paa";
+	texture = "HelicopterSIB_police\da\detail_maps\plastic1_512_dt.paa";
 	uvSource = "tex";
 	class uvTransform
 	{
@@ -68,7 +68,7 @@ class Stage4
 };
 class Stage5
 {
-	texture = "HelicopterMod\data\heli_int_smdi.paa";
+	texture = "HelicopterSIB_police\data\heli_int_smdi.paa";
 	uvSource = "tex";
 	class uvTransform
 	{
@@ -93,7 +93,7 @@ class Stage6
 class Stage7
 {
 	useWorldEnvMap = 1;
-	texture = "HelicopterMod\da\env_land_co.paa";
+	texture = "HelicopterSIB_police\da\env_land_co.paa";
 	uvSource = "tex";
 	class uvTransform
 	{
