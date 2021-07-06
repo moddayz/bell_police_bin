@@ -39,7 +39,6 @@ This is a helicopter
 5. Уберите галочку Binarize
 6. Запаковываете.
 7. Должен получиться HelicopterSIB_police.pbo
-8. Размещаете pbo в любой свой мод с указанием ссылкой на источник https://github.com/moddayz
 
 
 
