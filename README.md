@@ -1,10 +1,16 @@
 This is a free helicopter mod for dayz standalone it will be updated and improved.
-You can pack it to your workshop, provided that you provide a link to the source https://github.com/moddayz
+You can pack it in your workshop if in the description write
+
+>>>>>  The author https://sibnic.info of the mod for free helicopters, there you can download the latest version of the mod. https://sibnic.info/discord we help in installing the mod. <<<<<
+
 If the mod description does not include a link to my github, you forbid repackaging my mod or want to sell my mod, I will consider this a violation and will submit the DMCA.
 
-Это бесплатный мод на вертолет для автономной игры Dayz, он будет обновляться и улучшаться.
-Вы можете упаковать его в свою мастерскую, если предоставите ссылку на источник https://github.com/moddayz
-Если в описании мода нет ссылки на мой github, вы запрещаете мод перепаковывать или продаете мой мод, я сочту это нарушением и отправлю DMCA.
+Это бесплатный мод на вертолет для автономной игры Dayz, 
+Вы можете упаковать его в своей мастерской, если в описании напишите:
+
+>>>>> Автор мода https://sibnic.info на бесплатные вертолеты, там вы можете скачать последнюю версию мода. https://sibnic.info/discord Помощь в установке мода. <<<<<
+
+Если в описании мода нет этих ссылок и описания или вы запрещаете мод перепаковывать или продаете мой мод, я сочту это нарушением и отправлю DMCA.!!
 
 
 
