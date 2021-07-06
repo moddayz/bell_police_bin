@@ -25,7 +25,6 @@ This is a helicopter
 6. Uncheck Binarize
 7. Pack it.
 8. You should get HelicopterSIB_police.pbo(if such a name already exists after packing, rename pbo)
-9. Place it pbo in any of your mods with a link to the source https://github.com/moddayz
 
 
 
